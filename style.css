@@ -1,0 +1,133 @@
+.jumbotron img{
+	width: 300px;
+	padding: 30px;
+	margin-left: 20px;
+	margin-bottom: 70px;
+
+}
+body{
+	background: #d8fff5;
+}
+.font-weight-bolder{
+	color: darkgreen;
+}
+.navbar{
+	background: #303841;
+}
+.nav-link{
+	color: white;
+}
+.card-section{
+	background: #f8f9fa;
+}
+.card-link{
+	text-decoration: none;
+}
+.card-title{
+	font-size: 15px;
+	color: darkred;
+}
+.card-text{
+	font-size: 10px;
+}
+.card-link{
+	font-size: 13px;
+}
+.rounded-circle{
+	width: 100px;
+}
+.d-flex p{
+	font-size: 15px;
+	color: darkgreen;
+}
+.d-flex h5{
+	color: #303841;
+	font-size: 19px;
+}
+#sliderff{
+	padding: 5% 5%;
+}
+.sliderfftitle{
+	padding-bottom: 20px;
+	padding-top: 0px;
+}
+.carousel-item{
+	text-align: center;
+}
+.slidertxt{
+	color: #303841;
+}
+.carousel-indicators{
+	bottom: -40px;
+}
+.footertitle{
+	font-size: 17px;
+	color: darkblue;
+	text-align: center;
+}
+.footerp {
+    font-size: 13px;
+    padding-left: 41px;
+}
+.navbar-toggler-icon{
+	background: red;
+}
+.one{
+	padding: 10px 10px;
+}
+.fa-gem{
+	    padding-left: 98px;
+    font-size: 70px;
+    color: blueviolet
+}
+..wrapone {
+   margin-top: 30px;
+}
+.footer{
+	background: white;
+}
+.fcontact {
+    line-height: 15px;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 0px 48px 2px;
+}
+.fcntcus{
+	text-align: center;
+	color: darkred;
+}
+.col-lg-6 img{
+	width: 400px;
+	margin-left: 90px;
+	margin-top: 20px;
+}
+.p{
+	margin-left: 13px;
+}
+.ep{
+	margin-left: 13px;
+	padding-bottom: 17px;
+}
+.fcontact i{
+	color: blueviolet;
+}
+.container-fluid{
+	background: #303841;
+}
+.container-fluid p{
+	color: white;
+	text-align: center;
+}
+#pricing{
+	background: whitesmoke;
+}
+.cardimg{
+	width: 200px;
+}
+.btns a{
+	color: white;
+	text-decoration: none;
+}
+.button{
+	color: darkred;
+}
